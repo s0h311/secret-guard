@@ -3,3 +3,6 @@
 .matrix
 
 .DS_Store
+
+# built binary
+/secret-guard
