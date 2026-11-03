@@ -1,0 +1,17 @@
+{
+  "maxIterations": 10,
+  "github": {
+    "owner": "s0h311",
+    "repo": "secret-guard"
+  },
+  "checks": {
+    "strategy": "afterAll",
+    "lintCmd": "go vet",
+    "testCmd": "go test"
+  },
+  "review": true,
+  "agent": {
+    "model": "opus",
+    "effort": "high"
+  }
+}
